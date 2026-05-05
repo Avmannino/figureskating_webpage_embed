@@ -1,0 +1,9 @@
+/* src/index.css */
+@import "tailwindcss";
+
+/* optional: you can keep your own globals here if you want */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
