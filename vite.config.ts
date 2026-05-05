@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import { fileURLToPath, URL } from "node:url";
 
 export default defineConfig({
-  base: "/sticknpuck_webpage_embed/",
+  base: "/figureskating_webpage_embed/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
